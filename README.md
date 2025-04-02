@@ -57,7 +57,7 @@ pip install -r requirements.txt
 Data Preparation
 The historical data files are available in the data/ directory.
 Run the data_preprocessing.ipynb notebook to clean and preprocess the data.
-Metric Calculation
+Metric CalculationS
 Open the metric_calculation.ipynb notebook.
 Follow the steps to calculate the metrics as per the provided list.
 Dashboard Design
